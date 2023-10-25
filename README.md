@@ -25,6 +25,7 @@
   </li>
 </ul>
 
+<h3 align="">Contact Me</h3>
 
 - 💬 Ask me about **Javascript, react, next, python, python-django**
 
