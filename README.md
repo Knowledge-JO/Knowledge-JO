@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm John</h1><br>
 - 👀 I’m interested in working with different organizations to provide solutions to problems <br>
-- 🌱 2years experience in Javascript<br>
+- 🌱 3years experience in Javascript<br>
 - 💞️ I’m looking to collaborate on frontend projects, blockchain projects, fullstack python-django projects <br>
 
 
